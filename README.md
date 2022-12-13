@@ -1,4 +1,4 @@
-# lpbf-layer-segmentation
+# Laser powder bed fusion layer segmentation
 
 This project was made in Alkimat during a computer vision master's course on UFSC (Universidade Federal de Santa Catarina).
 
